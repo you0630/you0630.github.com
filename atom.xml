@@ -11,7 +11,7 @@ layout: nil
  <id>http://tom.preston-werner.com/</id>
  <author>
    <name>Tom Preston-Werner</name>
-   <email>tom@mojombo.com</email>
+   <email>jiangzhiguang0630@163.com</email>
  </author>
 
  {% for post in site.posts %}
